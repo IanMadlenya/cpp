@@ -36,8 +36,22 @@ Make sure your system meets these requirements:
 
 ## Running Guide
 
-### Step 1: Clone this repository
+### Step 1: Open the terminal and clone this repository
 
   ```
+  cd ~
   git clone https://github.com/weiyialanchen/c.git
+  ```
+
+### Step 2: Copy the `makefile` at directory `hw_01_01` to the directory you are going to run, say `hw_01_02`
+
+  ```
+  cp ~/c/hw_01_01/makefile ~/c/hw_01_02/makefile
+  ```
+  
+### Step 3: complie with cpp script with the `makefile` and run
+
+  ```
+  make
+  ./hw_01_02
   ```
