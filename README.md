@@ -1,7 +1,7 @@
 # c
 C++ with Financial Engineering Applications
 
-### Mac Installation Guide
+## Mac Installation Guide
 
 #### System Requirements
 Make sure your system meets these requirements:
@@ -34,7 +34,7 @@ Make sure your system meets these requirements:
   git clone https://github.com/weiyialanchen/MacInstallation.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/FixMacPath
   ```
 
-### Running Guide
+## Running Guide
 
 #### Step 1: Open the terminal and clone this repository
 
