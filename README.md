@@ -46,7 +46,7 @@ Make sure your system meets these requirements:
 #### Step 2: Copy the `makefile` at directory `hw_01_01` to the directory you are going to run, say `hw_01_02`
 
   ```
-  cp ~/c/hw_01_01/makefile ~/c/hw_01_02/makefile
+  cp ~/c/hw_01_01/makefile ~/c/hw_01_02/
   ```
   
 #### Step 3: complie with cpp script with the `makefile` and run
